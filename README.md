@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **2250582@tongji.edu.cn / ivy00cheng@gmail.com**
 
-- 👨‍💻 Some of my design projects are available at **[https://jycheng.cargo.site/](https://jycheng.cargo.site/)** (❗️404? Try retyping the URL.)
+- 👨‍💻 Some of my design projects are available at **[https://jycheng.cargo.site/](https://jycheng.cargo.site/)** (❗️404? Try retyping the URL)
 
 
 <h3 align="left">Languages and Tools:</h3>
